@@ -19,7 +19,7 @@ Trykk på lenken under for å importere oppstartsmappen til Microsoft sin hostin
 
  <img src="lab.png" width='500px'/>
  
- Bokmerk siden når du har fått opp JupyterLab
+ 4. Bokmerk siden når du har fått opp JupyterLab
  
  
 
