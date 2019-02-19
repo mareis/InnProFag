@@ -6,18 +6,18 @@ Trykk på lenken under for å importere oppstartsmappen til Microsoft sin hostin
 
 
  1. Trykk på import
-
-<img src="import.png" />
+ 
+<img src="import.png" width='500px'/>
 
 
  2. Trykk på import en gang til
- 
- <img src="import2.png" />
+
+ <img src="import2.png" width='500px'/>
 
 
  3. Høyreklikk på README.md og velg 'Run in JupyterLab'
 
- <img src="lab.png" />
+ <img src="lab.png" width='500px'/>
  
  Bokmerk siden når du har fått opp JupyterLab
  
