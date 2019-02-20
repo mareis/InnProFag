@@ -1,25 +1,26 @@
 # Oppstartsmappe
 
-Trykk på lenken under for å importere oppstartsmappen til Microsoft sin hosting av Jupyter Notebook. Logg inn med feidebrukerendin@o365.mrvgs.no 
+Trykk på lenken under for å importere oppstartsmappen til Microsoft sin hosting av Jupyter Notebook. 
 
-<a href="https://notebooks.azure.com/import/gh/mareis/InnProFag"><img src="https://notebooks.azure.com/launch.png" /></a>
+<a href="https://notebooks.azure.com/import/gh/mareis/InnProFag"><img src="https://notebooks.azure.com/launch.png" target="_blank" /></a>
 
+Logg inn med feidebrukerendin@o365.mrvgs.no
 
- 1. Trykk på import
+ **1. Trykk på import**
  
 <img src="import.png" width='500px'/>
 
 
- 2. Trykk på import en gang til
+ **2. Trykk på import en gang til**
 
  <img src="import2.png" width='500px'/>
 
 
- 3. Høyreklikk på README.md og velg 'Run in JupyterLab'
+ **3. Høyreklikk på README.md og velg 'Run in JupyterLab'**
 
  <img src="lab.png" width='500px'/>
  
- 4. Bokmerk siden når du har fått opp JupyterLab
+ **4. Bokmerk siden når du har fått opp JupyterLab**
  
  
 
